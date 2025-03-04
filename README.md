@@ -1,6 +1,6 @@
-# Smart Unit Converter
+# UnitPro_Professional unit conversions with history & export
 
-*Smart Unit Converter* is a powerful and user-friendly web application built using *Streamlit*. It provides professional unit conversions with history tracking and export functionality in CSV and PDF formats.
+*UnitPro_Professional unit conversions with history & export* is a powerful and user-friendly web application built using *Streamlit*. It provides professional unit conversions with history tracking and export functionality in CSV and PDF formats.
 
 ## 🚀 Features
 
